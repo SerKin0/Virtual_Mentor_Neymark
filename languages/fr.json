@@ -1,0 +1,59 @@
+{
+  "start_message": "\tBonjour je <b>Tuteur virtuel 3.0</b>. <i>Celui qui va aider dans une situation incompréhensible !</i>\n\nPour le moment, je suis en développement et il manque peut-être certaines fonctionnalités, mais ce n'est que pour le moment.\n\n<b>Comment puis-je vous être utile ?</b>\n - Je vais vous aider à rejoindre la nouvelle équipe et répondre à vos questions !  <i>écrire</i> en chat ou <i>Cliquez sur</i> sur /aide",
+  "help_message": "Si c'est la première fois que vous utilisez Virtual Mentor, vous devez d'abord créer un profil. \n\n<b>Bouton \"Profil 📄\" </b>\n\nPour ce faire, dans le menu principal, il y a un bouton <b>Profil 📄</b>.  <b>/Annuler</b>), si vous avez déjà créé un profil, la prochaine fois que vous appuierez sur le bouton, vous recevrez des données de profil qui, si nécessaire, peuvent être modifiées.\n\n <i>IT-Campus NEIMARCK Q</i> et groupe <i>IT-Campus NEIMARCK (non officiel)</i>.  \n\n <b>Commande \"/question\" </b>\n\n Si vous avez une question de quelque nature que ce soit, vous pouvez ajouter cette commande à votre message (peu importe où vous l'écrivez, vous le pouvez, à la fois dans les messages privés avec le bot et dans le groupe) et après l'avoir envoyé, le le bot enverra ce message à Telegram Channel Q\n\n <b>Bouton \"Rechercher une réponse ❔\" </b>\n\n <i> Commentaire: </i> Cette fonction fonctionne même sans enregistrement d'utilisateur.\n\n  <i>IT-Campus NEIMARCK Q</i> et découvrez les réponses dans les commentaires.\n\n  <b>Divers…</b> Vous serez redirigé vers le deuxième menu, avec des boutons <b>Mèmes 🤣</b> Et <b>À propos des développeurs</b>.\n\n <b>Bouton \"À propos des développeurs\" </b>\n\n Après avoir cliqué dessus, vos informations sur les développeurs et d'autres informations peu utiles s'affichent. \n\n <b>Bouton \"Mèmes 🤣\" </b>\n\n Vous amène à un menu avec des boutons <b>Créer un nouveau mème 🆕</b> Et <b>Mème aléatoire 🎲</b>.\n\n <b>Bouton \"Créer un nouveau mème 🆕\" </b>\n\n Créer un mème consiste à télécharger une photo et/ou un texte. \n\n <b>Bouton \"Mème aléatoire 🎲\" </b>\n\n Affiche un mème aléatoire parmi ceux précédemment chargés.",
+  "buttons_start_menu_private": [
+    "Trouver une réponse ❔",
+    "Profil 📄",
+    "Liens vers des groupes",
+    "Divers..."
+  ],
+  "buttons_other_menu": [
+    "Mèmes 🤣",
+    "À propos des développeurs",
+    "Retour au menu 🔙"
+  ],
+  "buttons_meme_menu": [
+    "Créer un nouveau mème 🆕",
+    "Mème aléatoire 🎲",
+    "Retour aux différents ⬅️"
+  ],
+  "open_start_menu": "je me tourne vers <b>Départ</b> menu...",
+  "open_other_menu": "je vais au menu <b>Autre</b>...",
+  "open_memes_menu": "je vais au menu <b>mèmes</b>...",
+  "information_authors": "<b>Développeurs, testeurs et personnes qui ont aidé ou contribué d'une manière ou d'une autre au développement du bot :</b>\n\n <b>Développeur</b> SerKin0 (Sergey Skorokhodov) - le principal et actuellement le seul développeur du bot ;\n<b>Testeur</b> GordStep (Gordey Stepushov) - la personne qui aide à tester tous les bots SerKin0\n<b>Testeur</b> Aip (Andrey Pronin) - une personne qui a testé la langue arménienne dans un bot contre sa volonté\n\n <b>Mentor virtuel</b>, vous pouvez alors vous abonner à la chaîne Telegram du développeur du bot (Skorokhodov Sergey) {}. ",
+  "levels_users": [
+    "Début",
+    "Mentor",
+    "Développeur",
+    "Développeur suprême"
+  ],
+  "profile_data": "<b>Nom:</b> {}\n<b>Nom de famille:</b> {}\n<b>Âge:</b> {}\n<b>Description:</b> {}\n<b>Niveau:</b> {}\n<b>Langue:</b> {}",
+  "edit_profile": "Si vous avez écrit les données avec une erreur, écrivez une commande à partir de la liste proposée, puis écrivez une correction :\n <code>/prénom</code> ...\n <code>/nom de famille</code> ...\n <code>/âge</code> ...\n <code>/description</code> ...\n <code>/langue</code> ... (ru - russe, en - anglais, de - allemand, ar - arménien, fr - français)\n\n<b>Exemple: </b>/langue fr",
+  "start_registration": [
+    "Pour que vous puissiez déverrouiller la fonctionnalité du bot, vous devez vous inscrire",
+    "Gardez à l'esprit que ce nom peut être utilisé dans les documents officiels ! ",
+    "<b>Écrivez votre nom</b>"
+  ],
+  "write_second_name": "<b>Écrivez votre nom de famille</b>",
+  "write_age": "<b>Écrivez votre âge</b> (Chiffre seulement)",
+  "write_description": [
+    "<b>Rédigez votre courte description</b>, comme pour le nom, prenez-le au sérieux.",
+    "<b>Conseil:</b> Si vous n'avez rien à écrire, vous pouvez simplement écrire une phrase de vie ou une citation du Grand"
+  ],
+  "select_language": "<b>Choisissez la langue</b>",
+  "finish_registration": "<b>Vous avez terminé votre inscription ! </b>\n\nVous pouvez désormais vous rendre dans le groupe NEIMARCK ()",
+  "error_edit_data_not_reg": "Vous ne pouvez pas modifier les paramètres du profil car ",
+  "error_data_entry": "Oh! ",
+  "edited_data_user": "Le changement a réussi. ",
+  "error_not_login": "Vous n'êtes pas enregistré. ",
+  "finish_write_question": "J'ai enregistré votre question",
+  "write_question": "Écrivez une question...",
+  "empty_question": "Désolé. ",
+  "if_not_found_need_question": "Si vous n'avez pas trouvé la question dont vous avez besoin, essayez de raccourcir ou de reformuler la question.",
+  "empty_text_question": "Vous avez écrit une question sans texte",
+  "load_photo_or_video_meme": "Tout d'abord, téléchargez une image avec un mème. ",
+  "write_description_meme": "Écrivez une description du mème, si vous voulez un mème sans description, écrivez ou appuyez sur le bouton 'Ignorer'",
+  "finish_load_meme": "D'accord, j'ai enregistré votre mème, j'espère qu'il n'y est pas, mais si nous recevons une plainte, nous vous le ferons savoir et supprimerons le mème.",
+  "download_error": "Vous devez télécharger au moins quelque chose",
+  "link_group": "Groupe : https://t.me/+5bWMQ2eTbMZjNzI6\n\nCanal: https://t.me/+4GWdDyDW6p40Yjdi"
+}

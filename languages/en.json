@@ -1,0 +1,59 @@
+{
+  "start_message": " Hello!  <b>bot 'Virtual Mentor'</b> - a unique assistant that makes learning and finding answers easy and convenient.  <code>/question</code>and I will forward your question to <i>Telegram channel 'IT Campus NEIMARQ Q</i>.  <b>programming</b>, <b>developing</b>, <b>marketing</b> or any other field, I will connect you with a community of professionals ready to help and share insights.\n\n <b>Virtual Mentor</b> and get instant support for your projects and learning purposes.\n\n",
+  "help_message": "If this is your first time using Virtual Mentor, then you first need to create a profile. \n\n<b>“Profile 📄” button </b>\n\nTo do this, in the main menu, there is a button <b>Profile 📄</b>.  <b>/Cancel</b>), if you have already started a profile, then the next time you press the button, you will be sent profile data, which, if necessary, can be edited.\n\n <i>IT-Campus NEIMARCK Q</i> and group <i>IT-Campus NEIMARCK (no offical)</i>.  \n\n <b>Command “/question” </b>\n\n If you have a question of any nature, then you can add this command to your message (it doesn’t matter where you write it, you can, both in Private messages with the bot and in the group) and after sending it, the bot will send this message to Telegram \n\n <b>“Search for answer ❔” button </b>\n\n <i> Comment: </i> This function works even without user registration.\n\n  <i>IT-Campus NEIMARCK Q</i> and see the answers in the comments.\n\n  <b>Miscellaneous…</b> You will be taken to the second menu, with buttons <b>Memes 🤣</b> And <b>About developers</b>.\n\n <b>Button “About developers” </b>\n\n After clicking on it, your information about the developers and other not very useful information is displayed. \n\n <b>Button “Memes 🤣” </b>\n\n Takes you to a menu with buttons <b>Create new meme 🆕</b> And <b>Random meme 🎲</b>.\n\n <b>Button “Create a new meme 🆕” </b>\n\n Creating a meme consists of uploading a photo and/or text. \n\n <b>“Random meme 🎲” button </b>\n\n Displays a random meme from previously loaded ones.",
+  "buttons_start_menu_private": [
+    "Finding an answer ❔",
+    "Profile 📄",
+    "Links to groups",
+    "Miscellaneous..."
+  ],
+  "buttons_other_menu": [
+    "Memes 🤣",
+    "About developers",
+    "Back to menu 🔙"
+  ],
+  "buttons_meme_menu": [
+    "Create new meme 🆕",
+    "Random meme 🎲",
+    "Back to different ⬅️"
+  ],
+  "open_start_menu": "I turn to <b>Starting</b> menu...",
+  "open_other_menu": "I go to the menu <b>Other</b>...",
+  "open_memes_menu": "I go to the menu <b>memes</b>...",
+  "information_authors": "<b>Developers, testers and people who helped or somehow contributed to the development of the bot:</b>\n\n <b>Developer</b> SerKin0 (Sergey Skorokhodov) - the main and currently the only developer of the bot;\n<b>Tester</b> GordStep (Gordey Stepushov) - the person who helps with testing all SerKin0 bots\n<b>Tester</b> Aip (Andrey Pronin) - a person who tested the Armenian language in a bot against his will\n\n <b>Virtual Mentor</b>, then you can subscribe to the Telegram channel of the bot developer (Skorokhodov Sergey) {}. ",
+  "levels_users": [
+    "Beginning",
+    "Mentor",
+    "Developer",
+    "Supreme Developer"
+  ],
+  "profile_data": "<b>Name:</b> {}\n<b>Surname:</b> {}\n<b>Age:</b> {}\n<b>Description:</b> {}\n<b>Level:</b> {}\n<b>Language:</b> {}",
+  "edit_profile": "If you wrote the data with an error, then write a command from the proposed list, and then write a correction:\n <code>/first_name</code> ...\n <code>/second_name</code> ...\n <code>/age</code> ...\n <code>/description</code> ...\n <code>/language</code> ... (ru - Russian, en - English, de - German, ar - Armenian, fr - French)\n\n<b>Example: </b>/language en",
+  "start_registration": [
+    "In order for you to unlock the functionality of the bot, you need to register",
+    "Keep in mind that this name can be used in official documents! ",
+    "<b>Write your name</b>"
+  ],
+  "write_second_name": "<b>Write your last name</b>",
+  "write_age": "<b>Write your age</b> (number only)",
+  "write_description": [
+    "<b>Write your short description</b>, as with the name, take it seriously.",
+    "<b>Advice:</b> If you have nothing to write, then you can simply write a phrase of life or a quote from the Great"
+  ],
+  "select_language": "<b>Choose language</b>",
+  "finish_registration": "<b>You have completed registration! </b>\n\nNow you can go to the NEIMARCK group ()",
+  "error_edit_data_not_reg": "You cannot change the profile settings because ",
+  "error_data_entry": "Oh! ",
+  "edited_data_user": "The change was successful. ",
+  "error_not_login": "You are not registered. ",
+  "finish_write_question": "I saved your question",
+  "write_question": "Write a question...",
+  "empty_question": "Sorry. ",
+  "if_not_found_need_question": "If you did not find the question you need, then try to shorten or reformulate the question.",
+  "empty_text_question": "You wrote a question without text",
+  "load_photo_or_video_meme": "First, upload an image with a meme. ",
+  "write_description_meme": "Write a description of the meme, if you want a meme without a description, write or press the 'Skip' button",
+  "finish_load_meme": "Okay, I saved your meme, I hope it's not there, but if we get a complaint, we'll let you know and remove the meme.",
+  "download_error": "You must download at least something",
+  "link_group": "Group: https://t.me/+5bWMQ2eTbMZjNzI6\n\nChanel: https://t.me/+4GWdDyDW6p40Yjdi"
+}

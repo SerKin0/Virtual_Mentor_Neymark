@@ -1,0 +1,59 @@
+{
+  "start_message": "\tHallo ich <b>Virtueller Tutor 3.0</b>. <i>Derjenige, der in einer unverständlichen Situation hilft!</i>\n\nIm Moment befinde ich mich in der Entwicklung und vielleicht fehlen einige Funktionen, aber das ist nur für den Moment.\n\n<b>Wie kann ich für Sie nützlich sein?</b>\n - Ich helfe Ihnen, dem neuen Team beizutreten und beantworte Ihre Fragen!  <i>schreiben</i> im Chat oder <i>Klicken</i> auf /help",
+  "help_message": "Wenn Sie Virtual Mentor zum ersten Mal nutzen, müssen Sie zunächst ein Profil erstellen. \n\n<b>Schaltfläche „Profil 📄“. </b>\n\nDazu gibt es im Hauptmenü eine Schaltfläche <b>Profil 📄</b>.  <b>/Stornieren</b>) Wenn Sie bereits ein Profil erstellt haben, werden Ihnen beim nächsten Drücken der Schaltfläche Profildaten zugesandt, die bei Bedarf bearbeitet werden können.\n\n <i>IT-Campus NEIMARCK Q</i> und Gruppe <i>IT-Campus NEIMARCK (kein Beamter)</i>.  \n\n <b>Befehl „/question“ </b>\n\n Wenn Sie eine Frage jeglicher Art haben, können Sie diesen Befehl zu Ihrer Nachricht hinzufügen (egal, wo Sie ihn schreiben, sowohl in privaten Nachrichten mit dem Bot als auch in der Gruppe) und nach dem Senden die Der Bot sendet diese Nachricht an den Telegram-Kanal Q\n\n <b>Schaltfläche „Nach Antwort suchen ❔“. </b>\n\n <i> Kommentar: </i> Diese Funktion funktioniert auch ohne Benutzerregistrierung.\n\n  <i>IT-Campus NEIMARCK Q</i> und sehen Sie sich die Antworten in den Kommentaren an.\n\n  <b>Sonstig…</b> Sie gelangen zum zweiten Menü mit Schaltflächen <b>Memes 🤣</b> Und <b>Über Entwickler</b>.\n\n <b>Button „Über Entwickler“ </b>\n\n Nachdem Sie darauf geklickt haben, werden Ihre Informationen zu den Entwicklern und andere nicht sehr nützliche Informationen angezeigt. \n\n <b>Button „Memes 🤣“ </b>\n\n Führt Sie zu einem Menü mit Schaltflächen <b>Neues Meme erstellen 🆕</b> Und <b>Zufälliges Meme 🎲</b>.\n\n <b>Button „Neues Meme erstellen 🆕“ </b>\n\n Das Erstellen eines Memes besteht aus dem Hochladen eines Fotos und/oder Textes. \n\n <b>Schaltfläche „Zufälliges Meme 🎲“. </b>\n\n Zeigt ein zufälliges Meme aus zuvor geladenen Memes an.",
+  "buttons_start_menu_private": [
+    "Eine Antwort finden ❔",
+    "Profil 📄",
+    "Links zu Gruppen",
+    "Sonstig..."
+  ],
+  "buttons_other_menu": [
+    "Memes 🤣",
+    "Über Entwickler",
+    "Zurück zum Menü 🔙"
+  ],
+  "buttons_meme_menu": [
+    "Neues Meme erstellen 🆕",
+    "Zufälliges Meme 🎲",
+    "Zurück zum Anderen ⬅️"
+  ],
+  "open_start_menu": "Ich wende mich an <b>Beginnend</b> Speisekarte...",
+  "open_other_menu": "Ich gehe zum Menü <b>Andere</b>...",
+  "open_memes_menu": "Ich gehe zum Menü <b>Meme</b>...",
+  "information_authors": "<b>Entwickler, Tester und Personen, die bei der Entwicklung des Bots geholfen oder irgendwie dazu beigetragen haben:</b>\n\n <b>Entwickler</b> SerKin0 (Sergey Skorokhodov) – der Haupt- und derzeit einzige Entwickler des Bots;\n<b>Prüfer</b> GordStep (Gordey Stepushov) – die Person, die beim Testen aller SerKin0-Bots hilft\n<b>Prüfer</b> Aip (Andrey Pronin) – eine Person, die gegen seinen Willen die armenische Sprache in einem Bot getestet hat\n\n <b>Virtueller Mentor</b>, dann können Sie den Telegram-Kanal des Bot-Entwicklers (Skorokhodov Sergey) {} abonnieren. ",
+  "levels_users": [
+    "Anfang",
+    "Mentor",
+    "Entwickler",
+    "Oberster Entwickler"
+  ],
+  "profile_data": "<b>Name:</b> {}\n<b>Nachname:</b> {}\n<b>Alter:</b> {}\n<b>Beschreibung:</b> {}\n<b>Eben:</b> {}\n<b>Sprache:</b> {}",
+  "edit_profile": "Wenn Sie die Daten mit einem Fehler geschrieben haben, schreiben Sie einen Befehl aus der vorgeschlagenen Liste und schreiben Sie dann eine Korrektur:\n <code>/Vorname</code> ...\n <code>/Zweitname</code> ...\n <code>/Alter</code> ...\n <code>/Beschreibung</code> ...\n <code>/Sprache</code> ... (ru – Russisch, en – Englisch, de – Deutsch, ar – Armenisch, fr – Französisch)\n\n<b>Beispiel: </b>/Sprache de",
+  "start_registration": [
+    "Damit Sie die Funktionalität des Bots freischalten können, müssen Sie sich registrieren",
+    "Beachten Sie, dass dieser Name in offiziellen Dokumenten verwendet werden kann! ",
+    "<b>Schreib deinen Namen</b>"
+  ],
+  "write_second_name": "<b>Schreiben Sie Ihren Nachnamen</b>",
+  "write_age": "<b>Schreiben Sie Ihr Alter</b> (nur Zahl)",
+  "write_description": [
+    "<b>Schreiben Sie Ihre kurze Beschreibung</b>Nehmen Sie es, wie schon den Namen, ernst.",
+    "<b>Beratung:</b> Wenn Sie nichts zu schreiben haben, können Sie einfach einen Lebenssatz oder ein Zitat des Großen schreiben"
+  ],
+  "select_language": "<b>Sprache wählen</b>",
+  "finish_registration": "<b>Sie haben die Registrierung abgeschlossen! </b>\n\nJetzt können Sie zur NEIMARCK-Gruppe gehen ()",
+  "error_edit_data_not_reg": "Sie können die Profileinstellungen nicht ändern, weil ",
+  "error_data_entry": "Oh! ",
+  "edited_data_user": "Der Wechsel war erfolgreich. ",
+  "error_not_login": "Sie sind nicht registriert. ",
+  "finish_write_question": "Ich habe deine Frage gespeichert",
+  "write_question": "Schreiben Sie eine Frage...",
+  "empty_question": "Es tut mir leid. ",
+  "if_not_found_need_question": "Wenn Sie die gewünschte Frage nicht gefunden haben, versuchen Sie, die Frage zu kürzen oder umzuformulieren.",
+  "empty_text_question": "Sie haben eine Frage ohne Text geschrieben",
+  "load_photo_or_video_meme": "Laden Sie zunächst ein Bild mit einem Meme hoch. ",
+  "write_description_meme": "Schreiben Sie eine Beschreibung des Memes. Wenn Sie ein Meme ohne Beschreibung wünschen, schreiben Sie oder klicken Sie auf die Schaltfläche „Überspringen“.",
+  "finish_load_meme": "Okay, ich habe dein Meme gespeichert, ich hoffe, es ist nicht da, aber wenn wir eine Beschwerde erhalten, werden wir dich darüber informieren und das Meme entfernen.",
+  "download_error": "Sie müssen zumindest etwas herunterladen",
+  "link_group": "Gruppe: https://t.me/+5bWMQ2eTbMZjNzI6\n\nKanal: https://t.me/+4GWdDyDW6p40Yjdi"
+}
